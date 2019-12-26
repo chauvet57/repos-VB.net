@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+lependu
+</name>
+</assembly>
+<members>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.cri_gagnez">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.cri_perdu">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Marteau_clou">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Mot_pendu">
+	<summary>
+  Recherche une chaîne localisée semblable à MEPRIS
+DEGENERER
+JARDIN
+DIFFORME
+MINUSCULE
+MECHANT
+SOUDAIN
+GRAPPLER
+BATAILLON
+DONNANT
+MONTAGNE
+DESTIN
+BIBERONNER
+PLANTATION
+PARADIS
+FIXATION
+CHAISE
+MUSCLE
+PEINDRE
+TELESCOPE
+ENCADREMENT
+TOBOGGAN
+BALANCE
+PLACARD
+BIERE
+BOUTEILLE
+ASSIETTE
+CONSOLE
+PANIER
+TELEVISION
+ORDINATEUR
+PLANTES
+LECTEUR
+CANAPE
+MEUBLE
+BALLONS
+TABOURET
+RIDEAUX
+CHATEAUX
+GATEAU
+BATEAU
+TORTURER
+TORTUE
+TEMPERATURE
+VOITURE
+JARDINIERE
+LUNETTES
+.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.pendu">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>

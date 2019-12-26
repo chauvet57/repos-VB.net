@@ -1,0 +1,78 @@
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\bin\Debug\le pendu.exe
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\bin\Debug\le pendu.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\bin\Debug\le pendu.xml
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Frm_Pendu.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.vbproj.GenerateResource.Cache
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.exe
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.xml
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.xml
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\bin\Debug\le pendu.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\bin\Debug\le pendu.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\bin\Debug\le pendu.xml
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Frm_Pendu.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.vbproj.GenerateResource.Cache
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Règles.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.A_propos.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.A_propos.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Règles.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Perdu.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Gagne.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Gagne.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Perdu.resources
+E:\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.exe
+E:\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.xml
+E:\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.pdb
+E:\Projects\le pendu\le pendu\bin\Debug\le pendu.exe
+E:\Projects\le pendu\le pendu\bin\Debug\le pendu.pdb
+E:\Projects\le pendu\le pendu\bin\Debug\le pendu.xml
+E:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.A_propos.resources
+E:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Gagne.resources
+E:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Frm_Pendu.resources
+E:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Perdu.resources
+E:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Règles.resources
+E:\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.vbproj.GenerateResource.Cache
+E:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.meilleur_scores.resources
+D:\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.exe
+D:\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.xml
+D:\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.meilleur_scores.resources
+D:\Projects\le pendu\le pendu\bin\Debug\le pendu.exe
+D:\Projects\le pendu\le pendu\bin\Debug\le pendu.pdb
+D:\Projects\le pendu\le pendu\bin\Debug\le pendu.xml
+D:\Projects\le pendu\le pendu\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Projects\le pendu\le pendu\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+D:\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.vbprojAssemblyReference.cache
+D:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.A_propos.resources
+D:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Gagne.resources
+D:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Frm_Pendu.resources
+D:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.meilleur_scores.resources
+D:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Perdu.resources
+D:\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Règles.resources
+D:\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.vbproj.GenerateResource.cache
+D:\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.vbproj.CoreCompileInputs.cache
+D:\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.vbproj.CopyComplete
+E:\fourre tout\Projects\le pendu\le pendu\bin\Debug\le pendu.exe
+E:\fourre tout\Projects\le pendu\le pendu\bin\Debug\le pendu.pdb
+E:\fourre tout\Projects\le pendu\le pendu\bin\Debug\le pendu.xml
+E:\fourre tout\Projects\le pendu\le pendu\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\fourre tout\Projects\le pendu\le pendu\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.vbprojAssemblyReference.cache
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.A_propos.resources
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Gagne.resources
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Frm_Pendu.resources
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.meilleur_scores.resources
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Perdu.resources
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Règles.resources
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.vbproj.GenerateResource.cache
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.vbproj.CopyComplete
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.exe
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.xml
+E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.pdb

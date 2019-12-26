@@ -1,0 +1,18 @@
+C:\Users\CDA07\AppData\Local\Temporary Projects\InversionTableau\bin\Debug\InversionTableau.exe
+C:\Users\CDA07\AppData\Local\Temporary Projects\InversionTableau\bin\Debug\InversionTableau.pdb
+C:\Users\CDA07\AppData\Local\Temporary Projects\InversionTableau\bin\Debug\InversionTableau.xml
+C:\Users\CDA07\AppData\Local\Temporary Projects\InversionTableau\obj\x86\Debug\InversionTableau.Frm_Principal.resources
+C:\Users\CDA07\AppData\Local\Temporary Projects\InversionTableau\obj\x86\Debug\InversionTableau.Resources.resources
+C:\Users\CDA07\AppData\Local\Temporary Projects\InversionTableau\obj\x86\Debug\InversionTableau.vbproj.GenerateResource.Cache
+C:\Users\CDA07\AppData\Local\Temporary Projects\InversionTableau\obj\x86\Debug\InversionTableau.exe
+C:\Users\CDA07\AppData\Local\Temporary Projects\InversionTableau\obj\x86\Debug\InversionTableau.xml
+C:\Users\CDA07\AppData\Local\Temporary Projects\InversionTableau\obj\x86\Debug\InversionTableau.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\InversionTableau\InversionTableau\obj\x86\Debug\InversionTableau.exe
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\InversionTableau\InversionTableau\obj\x86\Debug\InversionTableau.xml
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\InversionTableau\InversionTableau\obj\x86\Debug\InversionTableau.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\InversionTableau\InversionTableau\obj\x86\Debug\InversionTableau.Frm_Principal.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\InversionTableau\InversionTableau\obj\x86\Debug\InversionTableau.Resources.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\InversionTableau\InversionTableau\obj\x86\Debug\InversionTableau.vbproj.GenerateResource.Cache
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\InversionTableau\InversionTableau\bin\Debug\InversionTableau.exe
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\InversionTableau\InversionTableau\bin\Debug\InversionTableau.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\InversionTableau\InversionTableau\bin\Debug\InversionTableau.xml

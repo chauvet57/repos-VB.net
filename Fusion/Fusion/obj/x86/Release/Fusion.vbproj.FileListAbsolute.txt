@@ -1,0 +1,12 @@
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Fusion\Fusion\obj\x86\Release\Fusion.Fusion.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Fusion\Fusion\obj\x86\Release\Fusion.Resources.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Fusion\Fusion\obj\x86\Release\Fusion.vbproj.GenerateResource.Cache
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Fusion\Fusion\obj\x86\Release\Fusion.exe
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Fusion\Fusion\obj\x86\Release\Fusion.xml
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Fusion\Fusion\obj\x86\Release\Fusion.pdb
+C:\Users\CDA07\Documents\Fusion.exe
+C:\Users\CDA07\Documents\Fusion.pdb
+C:\Users\CDA07\Documents\Fusion.xml
+C:\Users\CDA07\Documents\Fusion_exe\Fusion.exe
+C:\Users\CDA07\Documents\Fusion_exe\Fusion.pdb
+C:\Users\CDA07\Documents\Fusion_exe\Fusion.xml

@@ -1,0 +1,20 @@
+C:\Users\CDA_SalleDuFond\AppData\Local\Temporary Projects\Connexion Base\bin\Debug\Connexion Base.exe
+C:\Users\CDA_SalleDuFond\AppData\Local\Temporary Projects\Connexion Base\bin\Debug\Connexion Base.pdb
+C:\Users\CDA_SalleDuFond\AppData\Local\Temporary Projects\Connexion Base\bin\Debug\Connexion Base.xml
+C:\Users\CDA_SalleDuFond\AppData\Local\Temporary Projects\Connexion Base\obj\x86\Debug\Connexion_Base.Frm_Affichage.resources
+C:\Users\CDA_SalleDuFond\AppData\Local\Temporary Projects\Connexion Base\obj\x86\Debug\Connexion_Base.Frm_princ.resources
+C:\Users\CDA_SalleDuFond\AppData\Local\Temporary Projects\Connexion Base\obj\x86\Debug\Connexion_Base.Resources.resources
+C:\Users\CDA_SalleDuFond\AppData\Local\Temporary Projects\Connexion Base\obj\x86\Debug\Connexion Base.vbproj.GenerateResource.Cache
+C:\Users\CDA_SalleDuFond\AppData\Local\Temporary Projects\Connexion Base\obj\x86\Debug\Connexion Base.exe
+C:\Users\CDA_SalleDuFond\AppData\Local\Temporary Projects\Connexion Base\obj\x86\Debug\Connexion Base.xml
+C:\Users\CDA_SalleDuFond\AppData\Local\Temporary Projects\Connexion Base\obj\x86\Debug\Connexion Base.pdb
+C:\Users\CDA_SalleDuFond\documents\visual studio 2010\Projects\Connexion Base\Connexion Base\obj\x86\Debug\Connexion Base.exe
+C:\Users\CDA_SalleDuFond\documents\visual studio 2010\Projects\Connexion Base\Connexion Base\obj\x86\Debug\Connexion Base.xml
+C:\Users\CDA_SalleDuFond\documents\visual studio 2010\Projects\Connexion Base\Connexion Base\obj\x86\Debug\Connexion Base.pdb
+C:\Users\CDA_SalleDuFond\documents\visual studio 2010\Projects\Connexion Base\Connexion Base\bin\Debug\Connexion Base.exe
+C:\Users\CDA_SalleDuFond\documents\visual studio 2010\Projects\Connexion Base\Connexion Base\bin\Debug\Connexion Base.pdb
+C:\Users\CDA_SalleDuFond\documents\visual studio 2010\Projects\Connexion Base\Connexion Base\bin\Debug\Connexion Base.xml
+C:\Users\CDA_SalleDuFond\documents\visual studio 2010\Projects\Connexion Base\Connexion Base\obj\x86\Debug\Connexion_Base.Frm_Affichage.resources
+C:\Users\CDA_SalleDuFond\documents\visual studio 2010\Projects\Connexion Base\Connexion Base\obj\x86\Debug\Connexion_Base.Frm_princ.resources
+C:\Users\CDA_SalleDuFond\documents\visual studio 2010\Projects\Connexion Base\Connexion Base\obj\x86\Debug\Connexion_Base.Resources.resources
+C:\Users\CDA_SalleDuFond\documents\visual studio 2010\Projects\Connexion Base\Connexion Base\obj\x86\Debug\Connexion Base.vbproj.GenerateResource.Cache

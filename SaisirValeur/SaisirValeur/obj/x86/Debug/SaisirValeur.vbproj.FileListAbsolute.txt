@@ -1,0 +1,9 @@
+C:\Users\CDA07\AppData\Local\Temporary Projects\SaissieValeur\bin\Debug\SaissieValeur.exe
+C:\Users\CDA07\AppData\Local\Temporary Projects\SaissieValeur\bin\Debug\SaissieValeur.pdb
+C:\Users\CDA07\AppData\Local\Temporary Projects\SaissieValeur\bin\Debug\SaissieValeur.xml
+C:\Users\CDA07\AppData\Local\Temporary Projects\SaissieValeur\obj\x86\Debug\SaissieValeur.SaisirValeur.resources
+C:\Users\CDA07\AppData\Local\Temporary Projects\SaissieValeur\obj\x86\Debug\SaissieValeur.Resources.resources
+C:\Users\CDA07\AppData\Local\Temporary Projects\SaissieValeur\obj\x86\Debug\SaisirValeur.vbproj.GenerateResource.Cache
+C:\Users\CDA07\AppData\Local\Temporary Projects\SaissieValeur\obj\x86\Debug\SaissieValeur.exe
+C:\Users\CDA07\AppData\Local\Temporary Projects\SaissieValeur\obj\x86\Debug\SaissieValeur.xml
+C:\Users\CDA07\AppData\Local\Temporary Projects\SaissieValeur\obj\x86\Debug\SaissieValeur.pdb

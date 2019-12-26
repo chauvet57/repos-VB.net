@@ -1,0 +1,18 @@
+C:\Users\CDA-11\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\CDA-11\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\CDA-11\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\CDA-11\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Visuel.resources
+C:\Users\CDA-11\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\CDA-11\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\TriangleDePascal.vbproj.GenerateResource.Cache
+C:\Users\CDA-11\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\CDA-11\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\CDA-11\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\TriangleDePascal\TriangleDePascal\bin\Debug\TriangleDePascal.exe
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\TriangleDePascal\TriangleDePascal\bin\Debug\TriangleDePascal.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\TriangleDePascal\TriangleDePascal\bin\Debug\TriangleDePascal.xml
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\TriangleDePascal\TriangleDePascal\obj\x86\Debug\WindowsApplication1.Visuel.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\TriangleDePascal\TriangleDePascal\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\TriangleDePascal\TriangleDePascal\obj\x86\Debug\TriangleDePascal.vbproj.GenerateResource.Cache
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\TriangleDePascal\TriangleDePascal\obj\x86\Debug\TriangleDePascal.exe
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\TriangleDePascal\TriangleDePascal\obj\x86\Debug\TriangleDePascal.xml
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\TriangleDePascal\TriangleDePascal\obj\x86\Debug\TriangleDePascal.pdb

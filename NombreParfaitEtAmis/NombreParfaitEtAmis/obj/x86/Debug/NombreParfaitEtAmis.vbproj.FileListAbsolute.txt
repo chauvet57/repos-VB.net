@@ -1,0 +1,21 @@
+C:\Users\CDA07\Downloads\NombreParfaitEtAmis\NombreParfaitEtAmis\bin\Debug\NombreParfaitEtAmis.exe
+C:\Users\CDA07\Downloads\NombreParfaitEtAmis\NombreParfaitEtAmis\bin\Debug\NombreParfaitEtAmis.pdb
+C:\Users\CDA07\Downloads\NombreParfaitEtAmis\NombreParfaitEtAmis\bin\Debug\NombreParfaitEtAmis.xml
+C:\Users\CDA07\Downloads\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\WindowsApplication1.fenetre.resources
+C:\Users\CDA07\Downloads\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\CDA07\Downloads\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\NombreParfaitEtAmis.vbproj.GenerateResource.Cache
+C:\Users\CDA07\Downloads\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\NombreParfaitEtAmis.exe
+C:\Users\CDA07\Downloads\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\NombreParfaitEtAmis.xml
+C:\Users\CDA07\Downloads\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\NombreParfaitEtAmis.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\NombreParfaitEtAmis.exe
+C:\Users\CDA07\Documents\Visual Studio 2010\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\NombreParfaitEtAmis.xml
+C:\Users\CDA07\Documents\Visual Studio 2010\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\NombreParfaitEtAmis.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\NombreParfaitEtAmis.exe
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\NombreParfaitEtAmis.xml
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\NombreParfaitEtAmis.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\WindowsApplication1.fenetre.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\NombreParfaitEtAmis\NombreParfaitEtAmis\obj\x86\Debug\NombreParfaitEtAmis.vbproj.GenerateResource.Cache
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\NombreParfaitEtAmis\NombreParfaitEtAmis\bin\Debug\NombreParfaitEtAmis.exe
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\NombreParfaitEtAmis\NombreParfaitEtAmis\bin\Debug\NombreParfaitEtAmis.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\NombreParfaitEtAmis\NombreParfaitEtAmis\bin\Debug\NombreParfaitEtAmis.xml

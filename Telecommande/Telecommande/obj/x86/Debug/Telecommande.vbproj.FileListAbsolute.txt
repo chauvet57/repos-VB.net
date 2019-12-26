@@ -1,0 +1,27 @@
+C:\Users\CDA07\AppData\Local\Temporary Projects\Telecommande\bin\Debug\Telecommande.exe
+C:\Users\CDA07\AppData\Local\Temporary Projects\Telecommande\bin\Debug\Telecommande.pdb
+C:\Users\CDA07\AppData\Local\Temporary Projects\Telecommande\bin\Debug\Telecommande.xml
+C:\Users\CDA07\AppData\Local\Temporary Projects\Telecommande\obj\x86\Debug\Telecommande.Frm_Telecommande.resources
+C:\Users\CDA07\AppData\Local\Temporary Projects\Telecommande\obj\x86\Debug\Telecommande.Resources.resources
+C:\Users\CDA07\AppData\Local\Temporary Projects\Telecommande\obj\x86\Debug\Telecommande.vbproj.GenerateResource.Cache
+C:\Users\CDA07\AppData\Local\Temporary Projects\Telecommande\obj\x86\Debug\Telecommande.exe
+C:\Users\CDA07\AppData\Local\Temporary Projects\Telecommande\obj\x86\Debug\Telecommande.xml
+C:\Users\CDA07\AppData\Local\Temporary Projects\Telecommande\obj\x86\Debug\Telecommande.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\obj\x86\Debug\Telecommande.exe
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\obj\x86\Debug\Telecommande.xml
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\obj\x86\Debug\Telecommande.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\bin\Debug\Telecommande.exe
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\bin\Debug\Telecommande.pdb
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\bin\Debug\Telecommande.xml
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\obj\x86\Debug\Telecommande.Frm_Telecommande.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\obj\x86\Debug\Telecommande.Resources.resources
+C:\Users\CDA07\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\obj\x86\Debug\Telecommande.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\obj\x86\Debug\Telecommande.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\obj\x86\Debug\Telecommande.xml
+C:\Users\David\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\obj\x86\Debug\Telecommande.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\bin\Debug\Telecommande.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\bin\Debug\Telecommande.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\bin\Debug\Telecommande.xml
+C:\Users\David\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\obj\x86\Debug\Telecommande.Frm_Telecommande.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\obj\x86\Debug\Telecommande.Resources.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\Telecommande\Telecommande\obj\x86\Debug\Telecommande.vbproj.GenerateResource.Cache
