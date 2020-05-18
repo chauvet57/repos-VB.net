@@ -76,3 +76,21 @@ E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.vbproj.CopyComp
 E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.exe
 E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.xml
 E:\fourre tout\Projects\le pendu\le pendu\obj\x86\Debug\le pendu.pdb
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\bin\Debug\le pendu.exe
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\bin\Debug\le pendu.pdb
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\bin\Debug\le pendu.xml
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\le pendu.vbprojAssemblyReference.cache
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.A_propos.resources
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Gagne.resources
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Frm_Pendu.resources
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.meilleur_scores.resources
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Perdu.resources
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\WindowsApplication1.Règles.resources
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\le pendu.vbproj.GenerateResource.cache
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\le pendu.vbproj.CopyComplete
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\le pendu.exe
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\le pendu.xml
+C:\Users\David\Documents\GitHub\repos-VB.net\le pendu\le pendu\obj\x86\Debug\le pendu.pdb
